@@ -7,5 +7,5 @@ Just messing up with some code here..
 **My places:**
 
 - [Portfolio website](https://sreelakshmys-portfolio.netlify.app/ "sreelakshmys website")
-- [LinkedIn profile](www.linkedin.com/in/sreelakshmys "sreelakshmys LinkedIn")
+- [LinkedIn profile](https://www.linkedin.com/in/sreelakshmys "sreelakshmys linkedIn")
 - [Email](mailto:sreelakshmys.mec@gmail.com)
